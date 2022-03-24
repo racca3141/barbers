@@ -1,0 +1,105 @@
+body {
+  margin: 0px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#name {
+  margin: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  font-family: 'BenchNine', sans-serif;
+  font-size: 40px;
+  color: white;
+}
+
+#mainpage {
+  background-image: url('images/bishop.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+  background-color: black;
+}
+
+nav {
+  margin-left: 10px;
+  text-align: left;
+}
+  
+nav p {
+  padding-top: 0px;
+  padding-bottom: 20px;
+  margin: 0px;
+  display: inline-block;
+  margin-right: 20px;
+}
+  
+nav a {
+  text-decoration: none;
+  color: #DDDDDD;
+}
+  
+nav a:hover, nav a:focus {
+  color: #910000;
+}
+
+#maintext {
+  color: white;
+  font-size: 60px;
+  padding-left: 100px;
+  padding-top: 350px;
+}
+
+#menscomment {
+  text-align: center;
+  padding: 15px;
+}
+
+#quote {
+  font-style: italic;
+  font-size: 18px;
+  color: #007FD1;
+  padding-left: 100px;
+}
+
+.pagetitle {
+  font-size: 40px;
+  color: #DDDDDD;
+  text-align: center;
+  margin: 10px;
+}
+
+table {
+  margin: auto;
+  padding: 10px;
+  border-collapse: collapse;
+}
+   
+td {
+  width: 300px;
+  margin: 0px;
+  padding: 10px;
+  font-size: 12px;
+  text-align: center;
+  border: lightgray solid 1px;
+}
+
+#otherservices{
+  padding: 15px;
+  text-align: center;
+}
+
+#otherservices div {
+  font-size: 12px;
+  padding: 5px;
+}
+
+#contactinfo {
+  padding: 10px;
+  font-size: 15px;
+  text-align: center;
+}
+
+#hours table td {
+    width: 150px;
+}
